@@ -1,0 +1,19 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "Testing repo for nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liVyO9/node_test.git"
+  },
+  "author": "JS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liVyO9/node_test/issues"
+  },
+  "homepage": "https://github.com/liVyO9/node_test#readme"
+}
