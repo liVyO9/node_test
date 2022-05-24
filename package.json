@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/liVyO9/node_test/issues"
   },
-  "homepage": "https://github.com/liVyO9/node_test#readme"
+  "homepage": "https://github.com/liVyO9/node_test#readme",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  }
 }
